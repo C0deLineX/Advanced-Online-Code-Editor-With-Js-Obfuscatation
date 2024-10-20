@@ -26,7 +26,7 @@ Welcome to our advanced online code editor featuring a powerful JavaScript obfus
 
 Start coding and protecting your work today with our advanced online code editor!
 
-[Click here to start using the Code Editor](https://www.codelinex.com/code-editor)
+[Click here to start using the Code Editor](https://advanced-code-editor.netlify.app/)
 
 ---
 
