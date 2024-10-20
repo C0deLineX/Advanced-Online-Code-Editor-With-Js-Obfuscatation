@@ -13,7 +13,7 @@ Welcome to our advanced online code editor featuring a powerful JavaScript obfus
 
 ### How to Use:
 
-1. Visit our [Online Code Editor](https://www.codelinex.com/code-editor)
+1. Visit our [Online Code Editor](https://advanced-code-editor.netlify.app/)
 2. Write or paste your JavaScript code in the editor.
 3. Use the obfuscation tool to secure your code if needed.
 4. Save, download, or share your work directly from the platform.
